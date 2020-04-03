@@ -20,7 +20,6 @@ And project is present in a [public repository][repo] on GitHub.
 
 This project requires Python2.7 to run.
 
-Install Python3 and required pip packages.
 To run it on Windows comment out the lines using "resource" package.
 ## Code Structure
 There are 3 directories each having the implementation of a particular algorithm and results of few test cases that we have executed. Along with that there is a readme file in each directory to guide you how to run the code from command line.
