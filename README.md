@@ -45,6 +45,12 @@ The directories listed are discussed in brief here
 2. Run `python TaskExecution.py test_case_no start_state` to generate a result file.
     Sample command: `python TaskExecution.py 2 1,3,2,4,5,0,6,7,8`.
 
+| Algorithm | Command | Parameter | Initial State |
+| ------ | ------ | ------ | ------ |
+AST
+UCS
+IDFFS
+
 ## Version Log
 
 
