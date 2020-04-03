@@ -47,9 +47,9 @@ The directories listed are discussed in brief here
 
 | Algorithm | Command | Parameter | Initial State |
 | ------ | ------ | ------ | ------ |
-AST
-UCS
-IDFFS
+| AST | python TaskExecution.py | ast
+| UCS | python TaskExecution.py | 
+| IDFFS | python TaskExecution.py |
 
 ## Version Log
 
