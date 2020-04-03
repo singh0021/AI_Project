@@ -47,7 +47,7 @@ The directories listed are discussed in brief here
 | Algorithm | Command | Parameters |
 | ------ | ------ | ------ |
 | AST | python TaskExecution.py ast 1,2,5,3,4,0,6,7,8 | ast(algo name), 1,2,5,3,4,0,6,7,8(initial_state) |
-| UCS | python TaskExecution.py ucs 1 1,2,5,3,4,0,6,7,8 | ast(algo name), 1(test case number), 1,2,5,3,4,0,6,7,8(initial_state) |
+| UCS |python TaskExecution.py ucs 1 1,2,5,3,4,0,6,7,8 | ucs(algo), 1(testcase number), 1,2,5,3,4,0,6,7,8(initial_state) |
 | IDFFS | python TaskExecution.py 1 1,2,5,3,4,0,6,7,8 | 1(test case number), 1,2,5,3,4,0,6,7,8(initial_state) |
 
 ## Version Log
