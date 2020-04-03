@@ -33,12 +33,12 @@ Each directory has 3 files:
 ### Directories
 The directories listed are discussed in brief here
 
-| Directory | Coontents |
+| Directory | Contents | Contributor |
 | ------ | ------ |
-|  AStar  | Code for AStar Algorithm implementaiton.|
-|  Iterative Deepening Algorithm  | Code for Iterative Deepening Algorithm implementaiton.|
-|  UniformedCostSearch  | Code for Uniformed Cost Search Algorithm implementaiton.|
-|  report  | This directory contains the report.|
+|  AStar  | Code for AStar Algorithm implementaiton.| Shikher Singh
+|  Iterative Deepening Algorithm  | Code for Iterative Deepening Algorithm implementaiton.| Tanvi Bagla
+|  UniformedCostSearch  | Code for Uniformed Cost Search Algorithm implementaiton.| Vishal
+|  Report  | This directory contains the report.| Abhinav Gandhi
 
 ### Execution
 1. Navigate to the directory of the desired algorithm 
