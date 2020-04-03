@@ -41,14 +41,14 @@ The directories listed are discussed in brief here
 
 ### Execution
 1. Navigate to the directory of the desired algorithm 
-2. Run `python TaskExecution.py test_case_no start_state` to generate a result file.
+2. Run below commands as given in table with respect to each algo.
     Sample command: `python TaskExecution.py 2 1,3,2,4,5,0,6,7,8`.
 
-| Algorithm | Command | Parameter | Initial State |
-| ------ | ------ | ------ | ------ |
-| AST | python TaskExecution.py | ast
-| UCS | python TaskExecution.py | 
-| IDFFS | python TaskExecution.py |
+| Algorithm | Command | Parameters |
+| ------ | ------ | ------ |
+| AST | python TaskExecution.py ast 1,2,5,3,4,0,6,7,8 | ast(algo name), 1,2,5,3,4,0,6,7,8(initial_state) |
+| UCS | python TaskExecution.py ucs 1 1,2,5,3,4,0,6,7,8 | ast(algo name), 1(test case number), 1,2,5,3,4,0,6,7,8(initial_state) |
+| IDFFS | python TaskExecution.py 1 1,2,5,3,4,0,6,7,8 | 1(test case number), 1,2,5,3,4,0,6,7,8(initial_state) |
 
 ## Version Log
 
