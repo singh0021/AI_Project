@@ -34,7 +34,7 @@ Each directory has 3 files:
 The directories listed are discussed in brief here
 
 | Directory | Contents | Contributor |
-| ------ | ------ |
+| ------ | ------ | ------ |
 |  AStar  | Code for AStar Algorithm implementaiton.| Shikher Singh
 |  Iterative Deepening Algorithm  | Code for Iterative Deepening Algorithm implementaiton.| Tanvi Bagla
 |  UniformedCostSearch  | Code for Uniformed Cost Search Algorithm implementaiton.| Vishal
