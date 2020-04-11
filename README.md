@@ -50,7 +50,7 @@ The directories listed are discussed in brief here
 | UCS |python TaskExecution.py ucs 1 1,2,5,3,4,0,6,7,8 | ucs(algo), 1(testcase number), 1,2,5,3,4,0,6,7,8(initial_state) |
 | IDDFS | python TaskExecution.py 1 1,2,5,3,4,0,6,7,8 | 1(test case number), 1,2,5,3,4,0,6,7,8(initial_state) |
 | IDA | python TaskExecution.py ida 1 1,2,5,3,4,0,6,7,8 | ida(algo) 1(testcase number) 1,2,5,3,4,0,6,7,8(initial_state) |
-## Version Log
+
 
 
 
