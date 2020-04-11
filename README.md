@@ -34,10 +34,10 @@ The directories listed are discussed in brief here
 
 | Directory | Contents | Contributor |
 | ------ | ------ | ------ |
-|  AStar  | Code for AStar Algorithm implementaiton.| Shikher Singh
+|  AStar | Code for AStar Algorithm implementaiton.| Shikher Singh
 |  Iterative Deepening Algorithm  | Code for Iterative Deepening Algorithm implementaiton.| Tanvi Bagla
-|  UniformedCostSearch  | Code for Uniformed Cost Search Algorithm implementaiton.| Vishal
-|  Report  | This directory contains the report.| Abhinav Gandhi
+|  UniformedCostSearch & IDA | Code for Uniformed Cost Search Algorithm implementaiton.| Vishal
+|  Report & Video | This directory contains the report.| Abhinav Gandhi
 
 ### Execution
 1. Navigate to the directory of the desired algorithm 
@@ -49,7 +49,7 @@ The directories listed are discussed in brief here
 | AST | python TaskExecution.py ast 1,2,5,3,4,0,6,7,8 | ast(algo name), 1,2,5,3,4,0,6,7,8(initial_state) |
 | UCS |python TaskExecution.py ucs 1 1,2,5,3,4,0,6,7,8 | ucs(algo), 1(testcase number), 1,2,5,3,4,0,6,7,8(initial_state) |
 | IDDFS | python TaskExecution.py 1 1,2,5,3,4,0,6,7,8 | 1(test case number), 1,2,5,3,4,0,6,7,8(initial_state) |
-
+| IDA | python TaskExecution.py ida 1 1,2,5,3,4,0,6,7,8 | ida(algo) 1(testcase number) 1,2,5,3,4,0,6,7,8(initial_state) |
 ## Version Log
 
 
