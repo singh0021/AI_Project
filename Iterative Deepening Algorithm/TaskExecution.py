@@ -152,7 +152,7 @@ if __name__ == '__main__':
     problem = Npuzzle(state)
     solver = Solver()
 
-    #Execute IDA Algorithm
+    #Execute IDS Algorithm
     solver.iterativeDeepening(problem)
     
     resultFile = "IDA_Result_" + testno + ".txt"
