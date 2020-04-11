@@ -1,0 +1,8 @@
+testCase: 1,2,5,0,3,4,6,7,8
+path_to_goal: ['Right', 'Right', 'Up', 'Left', 'Left']
+cost_of_path: 5
+nodes_expanded: 31
+search_depth: 5
+max_search_depth: 5
+running_time: 0.00134102
+max_ram_usage: 8.73828125
