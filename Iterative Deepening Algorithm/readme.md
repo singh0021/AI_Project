@@ -1,7 +1,7 @@
 ## Below 4 test cases are considered for caomparision and script can be executed to generate result files
 > **utility.py** : this file contains queue and Stack classes to be used in Search Algorithm
 
-> **SearchAlgo.py** : This file actually implements Iterative Deepening A* algorithm
+> **SearchAlgo.py** : This file actually implements Iterative Deepening Search algorithm
 
 > **TaskExecution.py**: This is the driver file to be run for algorithm
 

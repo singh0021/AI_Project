@@ -1,4 +1,4 @@
-# N-Puzzle (AI Project)
+# 8-Puzzle Problem Solver (AI Project)
 
 In this assignment we shall be creating an agent to solve the 8-puzzle game. For reference purpose, we can visit [N-puzzle] for a refresher of the rules of the game. We shall be implementing 3-4 algorithms such as A Star, Uniformed Cost, Iterative Deepening Astar, and Iterative Deepening algorithms. Each one of us from group will be working on one of the algorithms and will be publishing resulst in respective folders. Description of puzzle problem is given below. At last, we shall be producing statistics about each algorithm.
 
@@ -48,7 +48,7 @@ The directories listed are discussed in brief here
 | ------ | ------ | ------ |
 | AST | python TaskExecution.py ast 1,2,5,3,4,0,6,7,8 | ast(algo name), 1,2,5,3,4,0,6,7,8(initial_state) |
 | UCS |python TaskExecution.py ucs 1 1,2,5,3,4,0,6,7,8 | ucs(algo), 1(testcase number), 1,2,5,3,4,0,6,7,8(initial_state) |
-| IDFFS | python TaskExecution.py 1 1,2,5,3,4,0,6,7,8 | 1(test case number), 1,2,5,3,4,0,6,7,8(initial_state) |
+| IDDFS | python TaskExecution.py 1 1,2,5,3,4,0,6,7,8 | 1(test case number), 1,2,5,3,4,0,6,7,8(initial_state) |
 
 ## Version Log
 
