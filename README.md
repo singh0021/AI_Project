@@ -34,7 +34,7 @@ The directories listed are discussed in brief here
 
 | Directory | Contents | Contributor |
 | ------ | ------ | ------ |
-|  AStar | Code for AStar Algorithm implementaiton.| Shikher Singh
+|  AStar & Base Algo(BFS) | Code for AStar Algorithm implementaiton.| Shikher Singh
 |  Iterative Deepening Algorithm  | Code for Iterative Deepening Algorithm implementaiton.| Tanvi Bagla
 |  UniformedCostSearch & IDA | Code for Uniformed Cost Search Algorithm implementaiton.| Vishal
 |  Report & Video | This directory contains the report.| Abhinav Gandhi
