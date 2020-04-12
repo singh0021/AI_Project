@@ -28,3 +28,6 @@
 
 ### Test Case 3
 > python TaskExecution.py bfs 3,1,2,4,5,0,6,7,8
+
+### Test Case 4
+python TaskExecution.py bfs 1,2,5,0,3,4,6,7,8
